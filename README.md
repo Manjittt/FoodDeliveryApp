@@ -26,3 +26,12 @@
 1. Clone the repository:  
    ```bash
    git clone <repository-url>
+   cd server
+2. npm install        # Install backend dependencies
+npm start          # Start the backend server (default: http://localhost:8000)
+
+
+3. cd client
+npm install        # Install frontend dependencies
+npm start          # Start the frontend React app (default: http://localhost:3000)
+
